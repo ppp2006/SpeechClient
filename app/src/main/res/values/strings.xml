@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">润基朗读</string>
+    <string name="app_id">55716328</string>
+
+    <string name="init_sentence">还未收到任何朗读条目</string>
+    <string name="init_recog">还未登记任何识别结果</string>
+    <string name="press_to_talk">按下朗读，读完松开</string>
+    <string name="i_want_logout">退出登录</string>
+    <string name="replay">回放录音</string>
+    <string name="action_settings">设置</string>
+</resources>
